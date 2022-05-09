@@ -1,4 +1,13 @@
 {
     "name": "@bdav/preduce",
-    "version": "0.0.0"
+    "version": "0.0.2",
+    "description": "Calls javascript's array reduce method, swapping param order: array, initialValue, reducer",
+    "license": "MIT",
+    "repository": "bdav/preduce",
+    "main": "index.ts",
+    "keywords": [
+        "preduce",
+        "reduce",
+        "javascript"
+    ]
 }
